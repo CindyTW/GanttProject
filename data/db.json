@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Update the Promo Links",
+      "details": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "complete": false,
+      "id": 5231
+    },
+    {
+      "title": "Create Web-Based Gantt Charts",
+      "details": "Do it now by using Vue framework-so difficult!",
+      "complete": false,
+      "id": 5232
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    }
+  ]
+}
