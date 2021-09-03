@@ -19,5 +19,11 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 #### Local server
+```
 npm install json-server
+```
+
+##### Update data on local server
+```
 npx json-server --watch data/db.json
+```
