@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Create new homepage banner",
       "details": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum.",
-      "complete": true
+      "complete": false
     },
     {
       "id": 2,
@@ -23,6 +23,12 @@
       "details": "Do it now by using Vue framework-so difficult!",
       "complete": false,
       "id": 5232
+    },
+    {
+      "title": "Test",
+      "details": "Test",
+      "complete": false,
+      "id": 5233
     }
   ],
   "tasks": [

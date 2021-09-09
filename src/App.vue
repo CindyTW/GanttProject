@@ -4,6 +4,8 @@
 </template>
 
 <script>
+
+import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar.vue";
 
 export default {
@@ -19,7 +21,7 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  max-width: 600px;
+  /* max-width: 600px; */
   margin: 0 auto;
   color: #555;
 }

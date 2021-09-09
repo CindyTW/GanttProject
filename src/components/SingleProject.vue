@@ -6,6 +6,9 @@
         <router-link :to="{ name: 'EditProject', params: { id: project.id } }">
           <span class="material-icons">edit</span>
         </router-link>
+        <router-link :to="{ name: 'ManageProject', params: { id: project.id } }">
+          <span class="material-icons">event_note</span>
+        </router-link>
         <span @click="deleteProject" class="material-icons">delete</span>
         <span @click="toggleComplete" class="material-icons tick">done</span>
       </div>

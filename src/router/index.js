@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import Home from "../views/Home.vue";
 import AddProject from "../views/AddProject.vue";
 import EditProject from "../views/EditProject.vue";
-
+import ManageProject from "../views/ManageProject";
 
 const routes = [
   {
@@ -20,7 +20,13 @@ const routes = [
     name: "EditProject",
     component: EditProject,
     props: true,
-  }
+  },
+  {
+    path: "/manageproject/:id",
+    name: "ManageProject",
+    component: ManageProject,
+    props: true,
+  },
 ];
 
 const router = createRouter({
